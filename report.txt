@@ -1,0 +1,1 @@
+Error: Change symbol J5 from 'Connector_Generic:Conn_01x14' to 'Connector_Generic:Conn_01x2': *** symbol not found ***
